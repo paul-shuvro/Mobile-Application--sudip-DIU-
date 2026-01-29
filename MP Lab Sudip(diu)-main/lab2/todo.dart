@@ -8,15 +8,12 @@ class TodoApp {
 
 void main() {
   var app = TodoApp();
-  app.add("Buy milk");
-  app.add("Study Dart");
-  app.add("Go to GYM");
-  app.add("Go to sleep");
-  app.add("Learn openGL");
-  app.add("Learn Unity");
-  app.add("Learn Unreal Engine");
-  app.add("learn Quantum Computing");
-  app.add("Learn Astrophysics");
+   app.add("Wake Up");
+   app.add("Pray");
+   app.add("Relax Session");
+   app.add("Go to walk");
+   app.add("Pray");
+   app.add("Go to sleep");
 
 
   app.show();
